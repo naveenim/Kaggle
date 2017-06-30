@@ -1,6 +1,6 @@
 # MLClass
 
-Click on the following Kaggle contest links to navigate to the corresponding python notebooks.
+Click on the following names of Kaggle contests to navigate to the corresponding python notebooks.
 
 [Digit Recognizer](https://github.com/naveenim/MLClass/blob/master/MNIST_ConvolutionalNeuralNetwork.ipynb)
 
