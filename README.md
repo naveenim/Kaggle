@@ -1,5 +1,4 @@
 # MLClass
-Machine Learning Class
 
 Click on the following Kaggle contest links to navigate to the corresponding python notebooks.
 
