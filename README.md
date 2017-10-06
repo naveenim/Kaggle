@@ -1,4 +1,4 @@
-# MLClass
+# Kaggle
 
 Click on the following names of Kaggle contests to navigate to the corresponding python notebooks.
 
